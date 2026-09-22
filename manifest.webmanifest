@@ -1,0 +1,16 @@
+{
+  "name": "Town Guide Adventure - Unit 5",
+  "short_name": "Town Guide",
+  "description": "小学5年生外国語・道案内練習アプリ",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1578b8",
+  "orientation": "any",
+  "icons": [
+    {"src":"assets/app-icon.svg","sizes":"any","type":"image/svg+xml"},
+    {"src":"assets/app-icon-180.png","sizes":"180x180","type":"image/png"}
+  ]
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Town Guide Adventure">
+  <rect width="512" height="512" rx="104" fill="#1578b8"/>
+  <path d="M85 111h342v290H85z" fill="#eaf8ff"/>
+  <path d="M111 137h90v77h-90zm200 0h90v77h-90zm-200 161h90v77h-90zm200 0h90v77h-90z" fill="#91c96b"/>
+  <path d="M256 139v235M140 256h232" stroke="#e7dfd0" stroke-width="46" stroke-linecap="round"/>
+  <path d="M256 112v206m0 0-45-45m45 45 45-45" fill="none" stroke="#f1765b" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="382" r="43" fill="#ffd24c" stroke="#fff" stroke-width="10"/>
+  <path d="M240 382h32M256 366v32" stroke="#174a72" stroke-width="10" stroke-linecap="round"/>
+</svg>
