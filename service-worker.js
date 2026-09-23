@@ -1,4 +1,4 @@
-const CACHE_NAME='town-guide-grade5-final-v2';
+const CACHE_NAME='town-guide-grade5-simple-v3';
 const VOCAB_WORDS=['house','park','library','museum','hospital','bus-stop','station','police-station','fire-station','post-office','bookstore','restaurant','supermarket','castle','shrine','temple','church','aquarium','stadium','zoo','amusement-park','convenience-store','elementary-school','junior-high-school','go','straight','turn','right','left','see','block','corner','up','down','bus','taxi','bike','train','lion','elephant','gorilla','rabbit','zebra','giraffe','tiger','monkey'];
 const APP_FILES=[
   './',

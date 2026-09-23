@@ -14,8 +14,3 @@ ZIPファイルの中にある index.html を直接開くと、assetsフォル�
 児童には通常の公開URLを配付します。
 SafariでURLを開き、共有ボタンから「ホーム画面に追加」を選ぶと、Town Guide Adventureのアイコンで開けます。
 マイク・録音・英語音声認識は、必ずGitHub PagesのHTTPSのURLをSafariで開いて使ってください。
-
-【先生用設定】
-
-先生用URLは、通常の公開URLの末尾に ?teacher=1 を付けたURLです。
-最初だけ数字8桁の暗証番号を設定します。暗証番号は、その端末・そのブラウザ内だけに保存されます。
